@@ -252,4 +252,9 @@ twittershare.addEventListener('click', function(ev){
   window.open(twtLink,'_blank');
 }, false);
 
+facebookshare.addEventListener('click', function(ev){
+  var fbLink = 'https://www.facebook.com/sharer/sharer.php?u=' +urlfield.href;
+  window.open(fbLink,'_blank');
+}, false)
+
 })();
