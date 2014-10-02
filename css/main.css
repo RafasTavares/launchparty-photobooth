@@ -241,3 +241,10 @@ p {
     display: none;
 }
 
+
+#facebookshare {
+	width: 64px;
+	height: 64px;
+	margin-top: 80px;
+	margin-left: 75px;
+}
