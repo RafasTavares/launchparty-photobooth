@@ -1,0 +1,2 @@
+# launchparty-photobooth
+Photobooth
