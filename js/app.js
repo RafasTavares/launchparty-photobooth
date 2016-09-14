@@ -116,7 +116,7 @@
       }
     }, false);
 
-    xhr.setRequestHeader("Authorization", "Client-ID a41e1ecad14d783");
+    xhr.setRequestHeader("Authorization", "Client-ID 24f69b5f09ac658");
     xhr.send(fd);
   }
 
